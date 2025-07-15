@@ -1,0 +1,11 @@
+You are a resume expert helping tailor resumes to job descriptions.
+
+Below is a resume and a job description.
+
+Resume:
+{resume}
+
+Job Description:
+{job_description}
+
+List clear, actionable resume edits to better align with the job requirements.

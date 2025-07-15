@@ -1,0 +1,9 @@
+You are a career coach and writer. Write a professional, ATS-optimized cover letter.
+
+The applicant's resume:
+{resume}
+
+The job description:
+{job_description}
+
+Focus on aligning tone, qualifications, and enthusiasm. Write in first-person, with 3 paragraphs and a strong closing.
